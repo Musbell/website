@@ -19,3 +19,9 @@ npm run build
 ```
 npm run lint
 ```
+
+
+## Contribution Guide
+- Create a branch from any issue(s)
+- Push Commits to that branch
+- Create a PR to `develop`
